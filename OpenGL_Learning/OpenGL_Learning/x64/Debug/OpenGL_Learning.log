@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\user\Documents\OpenGL\OpenGL_Learning\OpenGL_Learning\main.cpp(158,28): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\user\Documents\OpenGL\OpenGL_Learning\OpenGL_Learning\main.cpp(265,17): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\user\Documents\OpenGL\OpenGL_Learning\OpenGL_Learning\main.cpp(266,17): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\user\Documents\OpenGL\OpenGL_Learning\OpenGL_Learning\main.cpp(271,19): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\user\Documents\OpenGL\OpenGL_Learning\OpenGL_Learning\main.cpp(272,19): warning C4244: '初期化中': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\user\Documents\OpenGL\OpenGL_Learning\OpenGL_Learning\main.cpp(273,13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\user\Documents\OpenGL\OpenGL_Learning\OpenGL_Learning\main.cpp(274,13): warning C4244: '=': 'double' から 'float' への変換です。データが失われる可能性があります。
+LINK : warning LNK4098: defaultlib 'MSVCRT' は他のライブラリの使用と競合しています。/NODEFAULTLIB:library を使用してください。
+  OpenGL_Learning.vcxproj -> C:\Users\user\Documents\OpenGL\OpenGL_Learning\x64\Debug\OpenGL_Learning.exe
